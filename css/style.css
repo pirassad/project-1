@@ -183,10 +183,8 @@ h2{
 
 }
 #contect-section{
-    position: relative;
     width: 100%;
     height: 470px;
-    z-index: -1;
     display:flex;
     flex-direction: column;
     align-items: center;
